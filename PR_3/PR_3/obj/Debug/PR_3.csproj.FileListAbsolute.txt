@@ -1,0 +1,10 @@
+C:\Users\Арсений\Documents\GitHub\TP3\TP_3\TP_3\PR_3\PR_3\bin\Debug\PR_3.exe.config
+C:\Users\Арсений\Documents\GitHub\TP3\TP_3\TP_3\PR_3\PR_3\bin\Debug\PR_3.exe
+C:\Users\Арсений\Documents\GitHub\TP3\TP_3\TP_3\PR_3\PR_3\bin\Debug\PR_3.pdb
+C:\Users\Арсений\Documents\GitHub\TP3\TP_3\TP_3\PR_3\PR_3\obj\Debug\PR_3.csproj.AssemblyReference.cache
+C:\Users\Арсений\Documents\GitHub\TP3\TP_3\TP_3\PR_3\PR_3\obj\Debug\PR_3.Form1.resources
+C:\Users\Арсений\Documents\GitHub\TP3\TP_3\TP_3\PR_3\PR_3\obj\Debug\PR_3.Properties.Resources.resources
+C:\Users\Арсений\Documents\GitHub\TP3\TP_3\TP_3\PR_3\PR_3\obj\Debug\PR_3.csproj.GenerateResource.cache
+C:\Users\Арсений\Documents\GitHub\TP3\TP_3\TP_3\PR_3\PR_3\obj\Debug\PR_3.csproj.CoreCompileInputs.cache
+C:\Users\Арсений\Documents\GitHub\TP3\TP_3\TP_3\PR_3\PR_3\obj\Debug\PR_3.exe
+C:\Users\Арсений\Documents\GitHub\TP3\TP_3\TP_3\PR_3\PR_3\obj\Debug\PR_3.pdb
